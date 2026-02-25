@@ -1,0 +1,4 @@
+C:\宜蘭大學\大一\大一下\程式設計\專題\MyNIU\MyNIU\MyNIU\x64\Debug\MyNIU.vcxproj.AssemblyReference.cache
+C:\宜蘭大學\大一\大一下\程式設計\專題\MyNIU\MyNIU\MyNIU\x64\Debug\MyNIU.vcxproj.SuggestedBindingRedirects.cache
+C:\宜蘭大學\大一\大一下\程式設計\專題\MyNIU\MyNIU\MyNIU\x64\Debug\MyNIU.MyForm.resources
+C:\宜蘭大學\大一\大一下\程式設計\專題\MyNIU\MyNIU\MyNIU\x64\Debug\MyNIU.vcxproj.GenerateResource.cache
