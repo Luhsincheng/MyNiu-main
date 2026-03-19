@@ -65,7 +65,7 @@
 
 | 項目 | 說明 |
 |------|------|
-| **程式語言** | C++ / C++/CLI |
+| **程式語言** | C++ /C#/CLI |
 | **GUI 框架** | Windows Forms (.NET Framework 4.8) |
 | **開發工具** | Visual Studio 2022 (v143 工具集) |
 | **目標平台** | Windows x64 |
